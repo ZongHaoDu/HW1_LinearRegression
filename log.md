@@ -51,3 +51,31 @@ C:\Users\du\Desktop\物聯網數據分析與應用\HW1_LinearRegression\
 **User:** I want to deploy to Streamlit Cloud, please create a requirements.txt first
 
 **Gemini:** I have created the `requirements.txt` file. Now you can proceed with deploying to Streamlit Cloud. I will now update the log.
+
+**User:** I want to push project to https://github.com/ZongHaoDu/HW1_LinearRegression.git
+
+**Gemini:** I can help with that. First, I'll check the status of your local repository.
+
+**Gemini:** It looks like your git repository is initialized in your user's home directory, not the project directory, which is why it's trying to track many unrelated files.
+
+I recommend initializing a new repository in the correct project folder: `C:\Users\du\Desktop\物聯網數據分析與應用\HW1_LinearRegression`. This will ensure we only track the project files.
+
+Shall I proceed with this?
+
+**User:** only this file
+
+**Gemini:** Just to confirm, you'd like me to create a new Git repository in the `HW1_LinearRegression` directory and add only the project files (`app.py`, `requirements.txt`, `log.md`) to it before pushing to GitHub?
+
+**User:** yes
+
+**Gemini:** Great. I will now initialize a new Git repository in the correct directory.
+
+**Gemini:** Now I will add the remote origin for your GitHub repository.
+
+**Gemini:** Next, I will add the project files to the repository.
+
+**Gemini:** Now, I'll commit the files.
+
+**Gemini:** Finally, I will push the commit to your GitHub repository.
+
+**Gemini:** I have successfully pushed the project to your GitHub repository. You can now proceed with deploying to Streamlit Cloud. I will now update the log.
