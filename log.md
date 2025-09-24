@@ -79,3 +79,9 @@ Shall I proceed with this?
 **Gemini:** Finally, I will push the commit to your GitHub repository.
 
 **Gemini:** I have successfully pushed the project to your GitHub repository. You can now proceed with deploying to Streamlit Cloud. I will now update the log.
+
+**User:** help me write README.md and me demo website on "https://hw1linearregression-goyqskagjpwrflnky4axey.streamlit.app/"
+
+**Gemini:** Of course. I will create a `README.md` file for your project with a link to your demo.
+
+**Gemini:** I've created the `README.md` file. Would you like to add it to your GitHub repository? I will now update the log.
